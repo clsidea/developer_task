@@ -33,3 +33,6 @@ node_modules/
 
 # EF Migrations (optional)
 Migrations/
+
+# Env file
+.env
